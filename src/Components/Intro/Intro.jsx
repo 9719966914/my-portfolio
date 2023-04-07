@@ -8,7 +8,7 @@ import Vector2 from '../../img/Vector2.png';
 
 import thumbup from '../../img/thumbup.png';
 import Crown from '../../img/crown.png';
-import glassesimoji from '../../img/glassesimoji.png';
+// import glassesimoji from '../../img/glassesimoji.png';
 import FloatinmgDiv from '../FloatingDiv/FloatinmgDiv';
 import { themeContext } from "../../Context";
 import { useContext } from "react";

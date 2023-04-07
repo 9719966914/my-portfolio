@@ -1,6 +1,6 @@
 import React from 'react'
 import './Experience.css'
-import {FaAngular, FaAward, FaBomb,} from 'react-icons/fa'
+import {FaAward, FaBomb,} from 'react-icons/fa'
 import {FaCode} from 'react-icons/fa'
 
 
