@@ -1,10 +1,21 @@
 {
   "files": {
-    "main.js": "/my-portfolio/static/js/main.325cb37e.js",
+    "main.css": "/my-portfolio/static/css/main.e3c78b04.css",
+    "main.js": "/my-portfolio/static/js/main.6c4536f8.js",
+    "static/media/ShivamParashar_CSE_GLAU.docx": "/my-portfolio/static/media/ShivamParashar_CSE_GLAU.8015b8f38cff5c71ad82.docx",
+    "static/media/shivam.jpeg": "/my-portfolio/static/media/shivam.9326765aa241080d8ec9.jpeg",
+    "static/media/thumbup.png": "/my-portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/my-portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/my-portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/crown.png": "/my-portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/my-portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/my-portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/my-portfolio/index.html",
-    "main.325cb37e.js.map": "/my-portfolio/static/js/main.325cb37e.js.map"
+    "main.e3c78b04.css.map": "/my-portfolio/static/css/main.e3c78b04.css.map",
+    "main.6c4536f8.js.map": "/my-portfolio/static/js/main.6c4536f8.js.map"
   },
   "entrypoints": [
-    "static/js/main.325cb37e.js"
+    "static/css/main.e3c78b04.css",
+    "static/js/main.6c4536f8.js"
   ]
 }
